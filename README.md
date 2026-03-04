@@ -1,7 +1,7 @@
 ## Hi, I'm Aleksandr — Software Developer based in the US 🇺🇸
 
 # 💫 About Me:
-🧑‍💻 I’m currently working as a Software Developer at  [Code The Dream](https://www.codethedream.org), where our team builds full-stack applications that make a social impact.<br><br>🤝 I’m open to new opportunities and collaboration - especially in mission-driven teams where I can continue to grow as a developer.<br><br>🌱 I’m currently learning Temporal and workflow orchestration patterns to deepen my backend engineering skills.<br><br>💬 Ask me about full-stack development with JavaScript, React, and Next.js.<br><br>⚡ Fun fact: I began learning to code and speak English simultaneously just a few years ago — now I do both every day.
+🧑‍💻 I’m currently working as a Software Developer at  [Code The Dream](https://www.codethedream.org), where our team builds full - stack applications that make a social impact.<br><br>🤝 I’m open to new opportunities and collaboration - especially in mission-driven teams where I can continue to grow as a developer.<br><br>💬 Ask me about full-stack development with JavaScript, React, and Next.js.<br><br>⚡ Fun fact: I began learning to code and speak English simultaneously just a few years ago -  now I do both every day.
 
 
 ## 🌐 Socials:
