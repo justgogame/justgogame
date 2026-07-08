@@ -50,6 +50,6 @@
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-two-pi-82.vercel.app/api?username=justgogame&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=eec877&icon_color=d9ac55&text_color=c9d1d9&v=3" />
+  <img height="165" src="https://github-readme-stats-two-pi-82.vercel.app/api?username=justgogame&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=eec877&icon_color=d9ac55&text_color=c9d1d9&v=3&hide=stars" />
   <img height="165" src="https://github-readme-stats-two-pi-82.vercel.app/api/top-langs/?username=justgogame&layout=compact&hide_border=true&bg_color=0d1117&title_color=eec877&text_color=c9d1d9" />
 </p>
