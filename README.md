@@ -1,3 +1,5 @@
+![Aleksandr Bogomolov - Software Engineer](./banner.png)
+
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3500&pause=1000&color=EEC877&center=true&vCenter=true&width=600&lines=Design+%E2%86%92+Build+%E2%86%92+Improve+%E2%86%92+Repeat;React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+Playwright;From+idea+to+production" alt="Typing SVG" /></a>
 </p>
